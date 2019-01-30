@@ -22,3 +22,12 @@ switch ($language)
 }
 
 ?>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>login</title>
+</head>
+<body>
+<h1>fhhjf</h1>
+</body>
+</html>
